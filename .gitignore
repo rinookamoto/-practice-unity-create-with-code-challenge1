@@ -1,0 +1,29 @@
+# --- Unity generated files ---
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
